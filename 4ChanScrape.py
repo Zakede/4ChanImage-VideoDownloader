@@ -1,4 +1,3 @@
-#FINAL FOR SURE
 import requests
 import wget
 import re
